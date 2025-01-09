@@ -1,14 +1,18 @@
-# CoLab Notebook
+# Title: A Jupyter Notebook from #semantic*Climate* - Liberating knowledge from climate-related reports
 
-*This is a template repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks). Delete this line of text when your publish your own repository.*
+DOI Zenodo badge: \<Add your DOI Zenodo badge code here.\>
 
-Add your DOI Zenodo badge here.
+Launch notebook: \<Add Colab or Mybinder badges here.\>
 
-Title: A Jupyter Notebook from #semantic*Climate* - Liberating knowledge from climate-related reports
+Description: \<Add description\> 
 
-License: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+Software citation information: [CITATION.cff](CITATION.cff)
 
-License information: [LICENSE](LICENSE)
+License: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ | License information: [LICENSE](LICENSE)
+
+## Instructions for Git template use: Delete this section after use
+
+*This is a template repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks).
 
 ## Software Citation
 
@@ -17,5 +21,11 @@ Add your name and ORCID in the CITATION.cff file to be attributed for your code 
 Edit Citation File Format: [CITATION.cff](CITATION.cff)
 
 About Citation File Format: https://citation-file-format.github.io/
+
+
+
+
+
+
 
 
