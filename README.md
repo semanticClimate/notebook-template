@@ -1,8 +1,6 @@
-# Your Notebook Title
+# \<Your Notebook Title\>
 
-DOI Zenodo badge: \<Add your DOI Zenodo badge code here.\>
-
-Launch notebook: \<Add Colab and/or Mybinder badges here [![alt text](https://colab.research.google.com/assets/colab-badge.svg "Colab")](https://colab.research.google.com/github/) or/and [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/) \>
+DOI Zenodo badge: \<Add your DOI Zenodo badge code here. This will need to be added after the first Zenodo deposit.\>
 
 Description: \<Add description\> 
 
@@ -12,6 +10,7 @@ License: Apache License Version 2.0, January 2004 http://www.apache.org/licenses
 
 # README
 
+\<Add info>\
 
 # Other info
 
