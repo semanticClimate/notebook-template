@@ -2,7 +2,7 @@
 
 DOI Zenodo badge: \<Add your DOI Zenodo badge code here.\>
 
-Launch notebook: \<Add Colab and/or Mybinder badges here.\>
+Launch notebook: \<Add Colab and/or Mybinder badges here.\> [![alt text](https://colab.research.google.com/assets/colab-badge.svg "Title")](https://colab.research.google.com/github/) or and 
 
 Description: \<Add description\> 
 
