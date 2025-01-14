@@ -4,6 +4,8 @@ DOI Zenodo badge: \<Add your DOI Zenodo badge code here. This will need to be ad
 
 Description: \<Add description\> 
 
+Reviewers & review process: \<Add reviewers and review process link\> 
+
 Software citation information: [CITATION.cff](CITATION.cff)
 
 License: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ | License information: [LICENSE](LICENSE)
