@@ -2,7 +2,7 @@
 
 DOI Zenodo badge: \<Add your DOI Zenodo badge code here. This will need to be added after the first Zenodo deposit.\>
 
-Description: \<Add description\> 
+Description: \<Add description\>
 
 Reviewers & review process: \<Add reviewers and review process link\> 
 
